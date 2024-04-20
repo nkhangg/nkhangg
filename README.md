@@ -6,8 +6,21 @@
 <h3 align="center">A passionate software developer from Viet Nam</h3>
 
 <br/>
+<div align="center">
+
+   🔭 **My Achievements**
+   
+   🌱 **Articles about my website [here](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho/petposter-website-mua-sam-thuc-an-cho-thu-cung-voi-trai-nghiem-dinh-cao.html)**
+   
+   🌱 **Articles about my software [here](https://caodang.fpt.edu.vn/tin-tuc-poly/quan-ly-quan-cafe-tro-nen-de-dang-thong-minh-hon-nho-du-an-cua-sinh-vien-fpt-polytechnic-can-tho.html)**
+
+
+ </div>
+
+<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
@@ -32,9 +45,14 @@
 <br/>
 
 <div>
-    <a href="https://youtu.be/zIoqKW5eyx4" target="_blank">
+    <h4>⚡ Demo</h4>
+
+   
+  <div>
+      <a href="https://youtu.be/zIoqKW5eyx4" target="_blank">
      <span>Video demo Shyci-wedsite</span>
   </a>
+  </div>
 </div>
 
  <hr/>
